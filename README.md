@@ -1,5 +1,3 @@
-# Getting Started
-
 This project was based on this [tutorial](https://www.youtube.com/watch?v=2po9_CIRW7I).
 
 ## Setting up the project
@@ -17,3 +15,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### FEATURES
+
+1 - Search places
+
+2 - Clustered results
