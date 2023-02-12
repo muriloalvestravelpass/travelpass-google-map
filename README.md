@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was based on this [tutorial](https://www.youtube.com/watch?v=2po9_CIRW7I).
 
-## Available Scripts
+## Setting up the project
 
-In the project directory, you can run:
+Create a `.env` file on the root of the project and add your ***Google Maps Api Key***. Example:
+
+`REACT_APP_GOOGLE_MAPS_API_KEY="your_api_key"`
+
+Then run `npm install` or `npm install --force` on your terminal.
 
 ### `npm start`
 
