@@ -21,3 +21,5 @@ You will also see any lint errors in the console.
 1 - Search places
 
 2 - Clustered results
+
+3 - Show routes
