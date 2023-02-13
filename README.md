@@ -32,4 +32,4 @@ The app:
 
 3 - Show routes
 
-![alt text](https://github.com/muriloalvestravelpass/travelpass-google-map/blob/main/images/search.png?raw=true)
+![alt text](https://github.com/muriloalvestravelpass/travelpass-google-map/blob/main/images/route.png?raw=true)
