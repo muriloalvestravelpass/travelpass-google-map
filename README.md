@@ -23,6 +23,7 @@ The app:
 ### FEATURES
 
 1 - Search places
+
 ![alt text](https://github.com/muriloalvestravelpass/travelpass-google-map/blob/main/images/search.png?raw=true)
 
 2 - Clustered results
