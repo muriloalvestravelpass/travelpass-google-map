@@ -16,13 +16,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+The app:
 
 ![alt text](https://github.com/muriloalvestravelpass/travelpass-google-map/blob/main/images/home.png?raw=true)
 
 ### FEATURES
 
 1 - Search places
+![alt text](https://github.com/muriloalvestravelpass/travelpass-google-map/blob/main/images/search.png?raw=true)
 
 2 - Clustered results
 
+![alt text](https://github.com/muriloalvestravelpass/travelpass-google-map/blob/main/images/clustered-results.png?raw=true)
+
 3 - Show routes
+
+![alt text](https://github.com/muriloalvestravelpass/travelpass-google-map/blob/main/images/search.png?raw=true)
